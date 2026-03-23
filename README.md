@@ -1,4 +1,7 @@
 # Deploying a Node Js Application on AWS EC2
+## 🚀 AWS Deployment Screenshot
+
+![AWS Deployment](AWS-Deployment.jpeg)
 
 ### Testing the project locally
 
